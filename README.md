@@ -17,7 +17,7 @@
 <br/>
 
 ## 🌺 Intro 🌺
-I started this personal portfolio during a job search, to brush up on Gatsby and continue my practice with writing clean code. I continued to benefit new Gatsby developers and for the [DigitalOceanxDEV App Platform Hackathon(https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k). It's a minimalist portfolio, including sections for **social**, **projects**, **contact**, and **about** content. 
+I started this personal portfolio during a job search, to brush up on Gatsby and continue my practice with writing clean code. I continued to benefit new Gatsby developers and for the [DigitalOceanxDEV App Platform Hackathon](https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k). It's a minimalist portfolio, including sections for **social**, **projects**, **contact**, and **about** content. 
 
 Personal portfolios are forever works in progress, and I plan to update the look, feel, and interactions on this portfolio as I feel moved.
 
