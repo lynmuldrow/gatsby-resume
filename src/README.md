@@ -2,9 +2,8 @@
 <br/>
 <h2 align="center")*A personal portfolio built with with Gatsby.*</h2>
 <br/>
-<p align="center">
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)![Work In Progress](https://unpkg.com/vvwip/WIP.svg)
-</p>
 ---
 <br/>
 
