@@ -39,4 +39,4 @@ I'd love to make this useful for the new developer community, so feel free to su
 <br/><br/>
 
 ## License
-This application is shared under the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+This application is shared under the [MIT License](https://github.com/lynmuldrow/my-resume/blob/master/LICENSE). 
