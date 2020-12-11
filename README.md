@@ -1,7 +1,7 @@
 <h1 align="center">My Resume</h1>
 <h3 align="center">A personal portfolio built with with Gatsby.</h3>
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 
 ---
 <br/>
@@ -24,6 +24,8 @@ To run this application, you'll need the following:
 
 - [npm](https://www.npmjs.com/get-npm)
 - [Gatsby](https://www.gatsbyjs.com/docs/quick-start/)
+
+<br/>
 
 To start the application, run: 
 
