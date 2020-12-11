@@ -3,6 +3,7 @@
 <br/>
 
 ![Picture of My Resume](https://i.imgur.com/z3jS1wq.png)
+[View it live.](https://lyns-portfolio-gjd85.ondigitalocean.app/)
 
 <br/>
 
