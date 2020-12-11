@@ -1,9 +1,13 @@
 <h1 align="center">My Resume</h1>
 <h3 align="center">A personal portfolio built with with Gatsby.</h3>
 
-<p align="center">[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)</p>
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ---
+<br/>
+
 ![Picture of My Resume](https://i.imgur.com/z3jS1wq.png)
+
 <br/>
 
 ## 🌺 Intro 🌺
@@ -13,7 +17,9 @@ Personal portfolios are forever works in progress, and I plan to update the look
 
 Feel free to take a fork and use this portfolio as a starting point for your own! 
 
-## 🌺 Usage 🌺
+<br/><br/>
+
+## Usage
 To run this application, you'll need the following: 
 
 - [npm](https://www.npmjs.com/get-npm)
@@ -27,12 +33,12 @@ npm run develop
 
 This will start a local instance of the app, accessible at http://localhost:8000 . From there, you can start making changes and seeing them in realtime in your browser. I used [VSCode](https://code.visualstudio.com/) with [Prettier](https://github.com/prettier/prettier) plugins, but its compatible with most editors.
 
-<br/>
+<br/><br/>
 
 ## 🌺 Contributing 🌺
 I'd love to make this useful for the new developer community, so feel free to submit a PR with UI changes. I'll review/merge as I can. Thanks for contributing to open source! 
 
-<br/>
+<br/><br/>
 
-## 🌺 License 🌺
+## License
 This application is shared under the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). 
