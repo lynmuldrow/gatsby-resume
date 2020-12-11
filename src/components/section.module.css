@@ -1,0 +1,29 @@
+.section {
+    display: flex;
+    align-items: left;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.image {
+    flex: 0 0 96px;
+    padding: 5px;
+    width: 40%;
+    height: 100%;
+    margin: 0;
+}
+
+.container { 
+    margin: 2rem auto;
+    max-width: 150px;
+}
+
+.description {
+    font-weight: 400;
+}
+
+.title {
+    font-weight: 700;
+}

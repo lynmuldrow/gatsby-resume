@@ -1,0 +1,21 @@
+html {
+    background-color: #BEB2C8;
+    color: #fff;
+    font-weight: 200;
+}
+
+h3, h4 {
+    color: #fff;
+}
+
+.arrow {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+}
+
+.arrow-bottom {
+    transform: rotate(135deg);
+}
