@@ -1,6 +1,5 @@
 <h1 align="center">My Resume</h1>
 <h4 align="center">A personal portfolio built with with Gatsby.</h4>
----
 <br/>
 
 ![Picture of My Resume](https://i.imgur.com/z3jS1wq.png)
